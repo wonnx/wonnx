@@ -1,5 +1,4 @@
-### 👋 Hi there! I'm mobile application developer 
-### using cross-platform like ReactNative.
+### 👋 Hi there! I'm mobile application developer using cross-platform like ReactNative.
 
 
 <!--
