@@ -1,6 +1,11 @@
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_wonnx/)
+
 #### 👋 Hi there! I'm mobile application developer using cross-platform like ReactNative.
-##### I like going out 🏍️ to meet people rather than staying at home,
-##### There's nothing happier than traveling with the people I love.
+```
+I like going out 🏍️ to meet people rather than staying at home 🏠,
+  
+There's nothing happier than traveling 🏖️ with the people I love ❤️.
+```
 ##
 #### platform and languages
 
