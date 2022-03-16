@@ -13,8 +13,8 @@ There's nothing happier than traveling 🏖️ with the people I love ❤️.
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
-##
-####
-####
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonnx&show_icons=true&theme=vue)　
+##  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonnx&show_icons=true&theme=vue)  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loveyourself)](https://solved.ac/loveyourself/) 
