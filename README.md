@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_wonnx/) <img src="https://img.shields.io/badge/labora864@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_wonnx/) <img src="https://img.shields.io/badge/labora7@hanyang.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 #### 👋 Hi there! I'm mobile application developer using cross-platform like ReactNative.
 ```
