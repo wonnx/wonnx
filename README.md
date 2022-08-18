@@ -3,7 +3,7 @@
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_wonnx/) <a href="mailto:labora7@hanyang.ac.kr"><img src="https://img.shields.io/badge/labora7@hanyang.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-#### 👋 Hi there! I'm mobile application developer using react & react native.
+#### 👋 Hi there! I'm web & mobile application developer using react & react native.
 ```
 I like going out 🏍️ to meet people rather than staying at home 🏠,
   
