@@ -18,9 +18,14 @@ There's nothing happier than traveling 🏖️ with the people I love ❤️.
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=AWS%20Amplify&logoColor=white"/>
 
+#### 🌈 Experiences
+- Hanyang University, Computer Software B.S. (2017.03 ~ 2023.02 expected)
+- Imformation olympiad academy, Algorithm Instructor (2018.09 ~ 2018.12)
+- One Day One Communication (ODOC), Internship (2022.06 ~ 2022.08)
+
 ##  
 
-#### 🌈 BOJ algorithm rank
+#### 🌸 BOJ algorithm rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loveyourself)](https://solved.ac/loveyourself/) 
 
