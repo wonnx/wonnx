@@ -3,7 +3,7 @@
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_wonnx/) <a href="mailto:labora7@hanyang.ac.kr"><img src="https://img.shields.io/badge/labora7@hanyang.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-#### 👋 Hi there! I'm web & mobile application developer using react & react native.
+#### 👋 Hi there! I'm backend developer using NestJS & Quarkus.
 ```
 I like going out 🏍️ to meet people rather than staying at home 🏠,
   
@@ -12,13 +12,15 @@ There's nothing happier than traveling 🏖️ with the people I love ❤️.
 ##
 
 #### 🔥 Tech Stacks 🛠️
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/React%20Native-000020?style=flat-square&logo=React&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=AWS%20Amplify&logoColor=white"/>  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 
 
 
@@ -27,7 +29,7 @@ There's nothing happier than traveling 🏖️ with the people I love ❤️.
 - Imformation olympiad academy, Algorithm Instructor (2018.09 ~ 2018.12)
 - One Day One Communication (ODOC), Internship (2022.06 ~ 2022.08)
 - Voronoi Research BetaCavityWeb, Researcher Internship (2022.09 ~ 2023.02)
-- SPACEMAP, software engineer (2023.02 ~ )
+- SPACEMAP, software engineer (2023.03 ~ )
 
 ##  
 <!--
