@@ -21,17 +21,6 @@ There's nothing happier than traveling 🏖️ with the people I love ❤️.
 
 #### 🌈 Experiences
 - Hanyang University, Computer Software B.S. (2017.03 ~ 2023.02)
-- Imformation olympiad academy, Algorithm Instructor (2018.09 ~ 2018.12)
-- One Day One Communication (ODOC), Internship (2022.06 ~ 2022.08)
 - Voronoi Research BetaCavityWeb, Researcher Internship (2022.09 ~ 2023.02)
 - SPACEMAP, software engineer (2023.02 ~ 2024.02)
 - CRScube, software engineer (2024.09 ~ Now)
-
-##  
-<!--
-#### 🌸 BOJ algorithm rank
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loveyourself)](https://solved.ac/loveyourself/) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonnx&show_icons=true&theme=vue)
--->
